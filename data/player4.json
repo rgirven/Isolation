@@ -1,0 +1,10 @@
+{
+    "player4": {
+        "sx": 0,
+        "sy": 1,
+        "cols": 23,
+        "tilew": 72,
+        "tileh": 97,
+        "frames": 23 
+    }
+}

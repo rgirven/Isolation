@@ -1,0 +1,10 @@
+{
+    "ship": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 164,
+        "tileh": 216,
+        "frames": 7 
+    }
+}
